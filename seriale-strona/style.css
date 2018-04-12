@@ -1,0 +1,25 @@
+body{
+    background-color: slategrey;
+    font-size: 18px;
+    color: white;
+}
+
+h1{
+    font-size: 44px;
+}
+
+/*nieodwiedzony link */
+
+a:link{
+    color: blue;
+}
+
+/* odwiedzony link */
+a:visited{
+    color: purple;
+}
+/* najechanie na link  */
+
+a:hover{
+    color: yellow;
+}
